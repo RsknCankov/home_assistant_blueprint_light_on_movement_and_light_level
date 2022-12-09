@@ -1,0 +1,3 @@
+You can use the button below for direct import into your instance:
+
+[![Open your Home Assistant instance and show the blueprint import dialog with a specific blueprint pre-filled.](https://my.home-assistant.io/badges/blueprint_import.svg)](https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https%3A%2F%2Fgithub.com%2FRsknCankov%2Fhome_assistant_blueprint_light_on_movement_and_light_level%2Fblob%2Fmain%2Fturn_on_light_on_motion_and_light_level.yaml)
